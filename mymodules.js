@@ -1,5 +1,9 @@
-export const a = 1
-export const b = 2
-export const c = 3
-export const d = 4
-export const e = 5
+// export is two type:-
+// 1)named export
+// 2)default export
+
+export const a = 1    //named export 
+export const b = 2    //named export
+export const c = 3    //named export
+export const d = 4    //named export
+export const e = 5    //named export
